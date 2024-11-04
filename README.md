@@ -13,8 +13,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZhanMingzi/ZhanMingzi/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![Jack_Zhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhanMingzi)](https://github.com/ZhanMingzi/github-readme-stats)
-[![Jack_Zhan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhanMingzi)](https://github.com/ZhanMingzi/github-readme-stats)
+![Jack_Zhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhanMingzi&count_private=true&show_icons=true&theme=transparent&hide_border=true)
+![Jack_Zhan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhanMingzi&show_icons=true&theme=ambient_transparent&hide_border=true)
+
+
+
 
 
 
