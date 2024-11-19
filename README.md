@@ -14,7 +14,7 @@
 </picture>
 
 ![Jack_Zhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhanMingzi&count_private=true&show_icons=true&theme=transparent&hide_border=true)
-![Jack_Zhan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhanMingzi&show_icons=true&theme=ambient_transparent&hide_border=true)
+![Jack_Zhan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhanMingzi&count_private=true&show_icons=true&theme=ambient_transparent&hide_border=true)
 
 
 
