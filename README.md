@@ -13,7 +13,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZhanMingzi/ZhanMingzi/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 <!-- Css Support -->
 <table style="width: 100%; background-color: #1e1e1e; padding: 20px; border-spacing: 10px; border-radius: 10px; text-align: center;">
   <tr>
@@ -27,8 +26,6 @@
     </td>
   </tr>
 </table>
-
-
 
 
 
