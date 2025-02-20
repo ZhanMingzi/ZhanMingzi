@@ -14,14 +14,14 @@
 </picture>
 
 
-<!-- 基本的表格设计，适用于GitHub支持的CSS样式 -->
+<!-- Css Support -->
 <table style="width: 100%; background-color: #1e1e1e; padding: 20px; border-spacing: 10px; border-radius: 10px; text-align: center;">
   <tr>
-    <!-- 第一个图表 -->
+    <!-- G1 -->
     <td style="padding: 20px; background-color: #333; border-radius: 10px;">
       <img src="https://github-readme-stats.vercel.app/api?username=ZhanMingzi&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="ZhanMingzi's GitHub stats" style="border-radius: 10px;">
     </td>
-    <!-- 第二个图表 -->
+    <!-- G2 -->
     <td style="padding: 20px; background-color: #333; border-radius: 10px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhanMingzi&count_private=true&show_icons=true&theme=transparent&hide_border=true" alt="ZhanMingzi's GitHub Top Languages" style="border-radius: 10px;">
     </td>
