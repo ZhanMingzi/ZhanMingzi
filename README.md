@@ -1,10 +1,8 @@
 ### Hi, I'm Jack.zhan. 👋
 
-- 🔭 I worked as a ETL developer with 7+ years and I am proficient in DWH building and optimization.
-- 🌱 I’m currently transitioning into a Web3 developer. 
-- 🤔 I’m currently involved in the development of the Web3 project using Solidity and JavaScript language.
-- 💬 I’m looking for more job opportunities in Web3. Be free to ask me about anything : mingzi.zhan@outlook.com
-
+- 🔭 7+ years in ETL and data warehouse development, experienced in data modeling and pipeline optimization.
+- 🌱 Skilled in full-stack development with Python, JavaScript. 
+  
 ### About me
 
 <picture>
