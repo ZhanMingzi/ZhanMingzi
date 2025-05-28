@@ -1,7 +1,7 @@
-### Hi, I'm Jack.zhan. 👋
+### Hi, I'm Jack.zhan.
 
-- 🔭 7+ years in ETL and data warehouse development, experienced in data modeling and pipeline optimization.
-- 🌱 Skilled in full-stack development with Python, JavaScript. 
+- Experienced in ETL, data warehousing, and data analysis with 7+ years in the field.
+- Skilled in full-stack development with Python, JavaScript. 
   
 ### About me
 
